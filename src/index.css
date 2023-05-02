@@ -1,0 +1,19 @@
+
+
+.card{
+    display: flex;
+}
+
+.card_img{
+    width: 400px;
+    height: 300px;
+}
+
+h1{
+    font-size: 100px;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
