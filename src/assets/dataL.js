@@ -15,7 +15,7 @@ export default [
     {
         id: 2,
         title: "Mount Everest",
-        description: "I want to visit the roof of the world, i will be a spectacular view ,if i ever achieved this , i will flex it for the rest of my life",
+        description: "I want to visit the roof of the world,it must be having a spectacular view ,if i ever achieved this , i will flex it for the rest of my life",
        
         coverImg: "everest base camp.jpeg",
        
@@ -40,7 +40,7 @@ export default [
     {
         id: 5,
         title: "Sky diving",
-        description: "i mean y not?",
+        description: "i mean y not? Addy bhai baar baar uksa rhe h",
        
         coverImg: "skydiving.jpg",
        }
